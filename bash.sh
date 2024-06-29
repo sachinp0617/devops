@@ -1,2 +1,2 @@
 #!/bin/bash
- echo "thsi is test scrpit"
+ echo "this is test scrpit"
